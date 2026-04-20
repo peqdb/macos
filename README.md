@@ -4,7 +4,7 @@ This software downmixes surround sound/Dolby Atmos content to stereo at resoluti
 
 1. Install and unzip Downmix Renderer.zip
 3. Install BlackHole 16ch: https://existential.audio/blackhole/
-4. In MacOS's Audio MIDI Setup, configure speakers for BlackHole 16ch to 9.1.6 with the channels labeled 1-16 in ascending order and apply those settings <img width="166" height="34" alt="Screenshot 2026-04-20 at 9 53 47 AM" src="https://github.com/user-attachments/assets/237183b2-1a12-486b-9647-29c511b14726" /> <img width="500" height="400" alt="Screenshot 2026-04-20 at 9 55 38 AM" src="https://github.com/user-attachments/assets/549270f5-63e6-4a93-9cb7-ca8fb9659af4" />
+4. In MacOS's Audio MIDI Setup, configure speakers for BlackHole 16ch to 9.1.6 with the channels labeled 1-16 in ascending order and apply those settings <img width="166" height="34" alt="Screenshot 2026-04-20 at 9 53 47 AM" src="https://github.com/user-attachments/assets/237183b2-1a12-486b-9647-29c511b14726" /> <img width="227" height="464" alt="Screenshot 2026-04-20 at 9 55 38 AM" src="https://github.com/user-attachments/assets/a4fba6d1-3b70-4e73-b6f9-cc2135b6f51c" />
 7. Attempt to open Downmix Renderer.app
 8. Click "Done" when MacOS says "Apple could not verify “Downmix Renderer” is free of malware that may harm your Mac or compromise your privacy."
 9. In MacOS System Settings > Privacy and Security > Security, if prompted, click "Open Anyway," for the DownMix Renderer, and follow further instructions

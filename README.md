@@ -1,4 +1,7 @@
 *MacOS Only*
+
+This software downmixes surround sound/Dolby Atmos content to stereo at resolutions up to a 9.1.6 speaker-configuration. There is no HRTF processing applied. The software works equally well on capable stereo loudspeaker and headphone systems.
+
 1. Install and unzip Downmix Renderer.zip
 3. Install BlackHole 16ch: https://existential.audio/blackhole/
 4. In MacOS's Audio MIDI Setup, configure speakers for BlackHole 16ch to 9.1.6 with the channels labeled 1-16 in ascending order

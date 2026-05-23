@@ -1,6 +1,6 @@
 *MacOS Only*
 
-This software downmixes surround sound/Dolby Atmos content to stereo at resolutions up to a 9.1.6 speaker-configuration. There is no HRTF processing applied. The software works equally well on capable stereo loudspeaker and headphone systems.
+This software downmixes surround sound/Dolby Atmos content to stereo at resolutions up to a 9.1.6 speaker-configuration. There is no HRTF processing applied. The software works equally well on capable stereo loudspeaker and headphone systems. Additionally, parametric equalization is available.
 
 1. Install and unzip Downmix Renderer.zip
 3. Install BlackHole 16ch: https://existential.audio/blackhole/
